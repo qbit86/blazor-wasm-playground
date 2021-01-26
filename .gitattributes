@@ -10,3 +10,4 @@
 *.props text
 *.sln   text
 *.txt   text
+/docs/* binary
