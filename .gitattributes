@@ -10,5 +10,5 @@
 *.props text
 *.sln   text
 *.txt   text
-docs/* binary
+docs/** binary
 docs/index.html text
